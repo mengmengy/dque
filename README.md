@@ -69,7 +69,7 @@ package dque_test
 import (
     "log"
 
-    "github.com/joncrlsn/dque"
+    "github.com/mengmengy/dque"
 )
 
 // Item is what we'll be storing in the queue.  It can be any struct
@@ -158,4 +158,3 @@ func doSomething(item *Item) {
 ### alternative tools
 
 * [CurlyQ](https://github.com/mcmathja/curlyq) is a bit heavier (requires Redis) but has more background processing features.
-

@@ -11,7 +11,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/joncrlsn/dque"
+	"github.com/mengmengy/dque"
 )
 
 // item2 is the thing we'll be storing in the queue
